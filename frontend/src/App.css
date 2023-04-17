@@ -1,0 +1,46 @@
+@import url('assets/css/fonts.css');
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: rgb(243, 247, 253);
+}
+
+div[contenteditable]:focus {
+  outline: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+  font-family: Poppins;
+}
+
+h1 {
+  font-size: 2.5rem !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+}
+
+h3 {
+  font-size: 1.75rem !important;
+}
+
+h4 {
+  font-size: 1.5rem !important;
+}
+
+h5 {
+  font-size: 1.25rem !important;
+}
+
+h6 {
+  font-size: 1rem !important;
+}
+
+input:focus {
+  outline: 0;
+}

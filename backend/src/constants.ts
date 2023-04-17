@@ -1,0 +1,8 @@
+export const DATA_SOURCE = 'DATA_SOURCE';
+
+export const repositories = {
+    USER_REPOSITORY: 'USER_REPOSITORY',
+    MESSAGE_REPOSITORY: 'MESSAGE_REPOSITORY'
+};
+
+export const DATABASE_CONFIG = 'DATABASE_CONFIG';
